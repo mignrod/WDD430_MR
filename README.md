@@ -1,17 +1,16 @@
 # WDD430_MR
 
-Índice general del curso Web Full-Stack Development
+General structure of Web Full-Stack Development course
 
-## Estructura
+## Estructure
 
 - week01/
   - practices/
     - todo-list/
   - learning/
-  - project/
 - week02/
   - practices/
   - learning/
   - project/
 
-Cada semana contiene ejercicios, proyectos y material de aprendizaje.
+Every week contain excercises, practices or lerning activities.
